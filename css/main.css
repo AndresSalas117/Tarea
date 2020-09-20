@@ -1,0 +1,27 @@
+body { background-color: skyblue;
+    margin: 0px;
+    padding: 0px;
+}
+
+header{ background-color: steelblue;
+    width: 100%;
+     font-size: 37px;
+     height: 45px;
+    color: black;
+
+}
+
+.pagina{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-style: normal;
+        float: inline-end;
+
+}
+.menu{font-family: 'Times New Roman', Times, serif;
+    margin: 0px;
+    padding: 0px;
+    font-size: 25px;
+    float: right;
+
+}
+
+
